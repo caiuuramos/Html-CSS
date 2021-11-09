@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(39, 39, 39);
+}
+div {
+    text-align: center;
+    display: block;
+}
+h1 {
+    color: white;
+    font-family: arial;
+    text-align: center;
+}
